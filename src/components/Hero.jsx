@@ -1,4 +1,4 @@
-import { Rocket, Store, Gift, Leaf } from 'lucide-react'
+import { Rocket, Store, Leaf } from 'lucide-react'
 import Spline from '@splinetool/react-spline'
 
 export default function Hero() {
@@ -52,7 +52,7 @@ export default function Hero() {
           </div>
 
           <div className="relative h-[420px] sm:h-[520px]">
-            <Spline scene="https://prod.spline.design/2q2J0Yz4n8TnYdJ0/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+            <Spline scene="https://prod.spline.design/igThmltzmqv5hkWo/scene.splinecode" style={{ width: '100%', height: '100%' }} />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-white/60 via-transparent to-transparent" />
           </div>
         </div>
